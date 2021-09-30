@@ -24,7 +24,7 @@ public class Principal {
             String bairro;
             String rua;
             int num;
-            System.out.println("Endereco " + i);
+            System.out.println("Endereco " + (i+1));
             System.out.println("Bairro: ");
             bairro = sc.nextLine();
             System.out.println("Rua: ");
